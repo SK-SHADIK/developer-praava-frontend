@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/developer-praava-frontend/static/css/main.e63ee880.css",
+    "main.js": "/developer-praava-frontend/static/js/main.1db9d929.js",
+    "index.html": "/developer-praava-frontend/index.html",
+    "main.e63ee880.css.map": "/developer-praava-frontend/static/css/main.e63ee880.css.map",
+    "main.1db9d929.js.map": "/developer-praava-frontend/static/js/main.1db9d929.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e63ee880.css",
+    "static/js/main.1db9d929.js"
+  ]
+}
